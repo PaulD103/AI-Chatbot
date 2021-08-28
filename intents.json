@@ -1,0 +1,17 @@
+{"intents": [
+  {"tag": "anrede",
+  "patterns": ["Hello", "Hey, there"],
+  "responses": ["Hello, Sir!", "Good morning, Sir."],
+  "context_set": ""
+  },
+  {"tag": "abschied",
+  "patterns": ["Bye", "Good bye", "See you later"],
+  "responses": ["Good bye, Sir!", "Have a nice day."],
+  "context_set": ""
+  },
+  {"tag": "gefuehl",
+  "patterns": ["How are you"],
+  "responses": ["I'm fine."],
+  "context_set": ""
+  }
+]}
